@@ -1,0 +1,16 @@
+{
+    "name": "Barrel",
+    "description": "Cañon del arma",
+    "image": "ipfs://bafybeicwgciutugdl32ffatru6xmfhyz47y5o46xp7ws72d7pwlmq3qqby/butt.png",
+    "external_url": "https://callofduty.com",
+    "attributes": [
+        {
+            "trait_type": "Tipo",
+            "value": "Recurso basico"
+        },
+        {
+            "trait_type": "Balance total",
+            "value": 1000000
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "name": "M4A1",
+    "description": "Arma completa M4A1",
+    "image": "ipfs://bafybeicwgciutugdl32ffatru6xmfhyz47y5o46xp7ws72d7pwlmq3qqby/m4a1.jpg",
+    "external_url": "https://callofduty.com",
+    "attributes": [
+        {
+            "trait_type": "Tipo",
+            "value": "Arma completa"
+        },
+        {
+            "trait_type": "Tipo de disparo",
+            "value": "Automatica"
+        },
+        {
+            "display_type":"boost_number",
+            "trait_type":"Cañon necesario",
+            "value":1
+        },
+        {
+            "display_type":"boost_number",
+            "trait_type":"Cuerpo necesario",
+            "value":1
+        },
+        {
+            "display_type":"boost_number",
+            "trait_type":"Culata necesario",
+            "value":1
+        }
+    ]
+}
