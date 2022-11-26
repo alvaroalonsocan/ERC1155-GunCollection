@@ -68,9 +68,11 @@ contract GunCollection is
         _mint(account, id, amount, data);
         //check id y dependiendo de cual es hacemos burn de los tokens correspondientes
         if(id == 3){
-            _burn(account,0,1);
-            _burn(account,1,1);
-            _burn(account,2,1);
+            for(uint i = 0;i<amount;i++){
+                _burn(account,0,1);
+                _burn(account,1,1);
+                _burn(account,2,1);
+            }
         }
     }
 
